@@ -1,4 +1,4 @@
-def oxford_ca(array)
+def oxford_comma(array)
 array = ["kiwi"]
 end
 
